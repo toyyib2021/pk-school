@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Pk Tech</string>
+    <string name="log_out">Log Out</string>
+    <string name="create_account">Create Account</string>
+    <string name="please_choose">Please choose your preferred account type</string>
+    <string name="please_fill_the_input_below">Please fill the input below here</string>
+    <string name="full_name">Full Name</string>
+    <string name="phone_text">Phone</string>
+    <string name="email_text">Email</string>
+    <string name="password_text">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="admin_tex">Admin</string>
+    <string name="director_text">Director</string>
+    <string name="attendance_collector">Attendance Collector</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_sign_in">Already have an account? Sign In</string>
+    <string name="confirm_text">Confirm</string>
+    <string name="change_your_accesss_key">Change your accesss key</string>
+    <string name="account_text">Account</string>
+    <string name="passcode_text">Passcode</string>
+    <string name="confirm_passcode">Confirm Passcode</string>
+
+
+
+
+
+
+</resources>
