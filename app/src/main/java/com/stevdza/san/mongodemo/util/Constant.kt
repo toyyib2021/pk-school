@@ -1,8 +1,7 @@
 package com.stevdza.san.mongodemo.util
 
 object Constants {
-    const val APP_ID = "pure-knowledge-demo-idwyu"
-    const val CLIENT_ID = "252146713683-9nvbdjfi207v1e982bnsc7hbvusvvai7.apps.googleusercontent.com"
+    
 
     const val ADMIN = "Admin"
     const val ATTENDANCE_COLLECTED = "Attendance Collector"
